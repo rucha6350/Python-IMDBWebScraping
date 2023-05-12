@@ -2,6 +2,7 @@
 This project demonstrate web scraping of IMDB site using Python.
 
 Tools used : Jupyter Notebook
+
 Programming Language : Python
 
 3 modules are used : 
