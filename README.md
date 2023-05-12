@@ -6,6 +6,7 @@ Tools used : Jupyter Notebook
 Programming Language : Python
 
 3 modules are used : 
+  
   a. Requests - To access IMDB website.
   
   b. BeautifulSoup - To parse HTML of website.
