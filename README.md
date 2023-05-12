@@ -7,7 +7,9 @@ Programming Language : Python
 
 3 modules are used : 
   a. Requests - To access IMDB website.
+  
   b. BeautifulSoup - To parse HTML of website.
+  
   c. Openpyxl - To save the data in an Excel file.
   
  Code Explaination:
